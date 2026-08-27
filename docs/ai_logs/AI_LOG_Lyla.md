@@ -1,7 +1,5 @@
 # Log de prompts a las IAs
 
-**Obligatorio registrar cada prompt siguiendo este formato, empezando desde el más reciente hasta el más antiguo. Se puede pedir a la misma IA que entregue el log.**
-
 * Nombre de integrante - Prompt # (# de prompt)
 * IA utilizada
 * Prompt del integrante completo

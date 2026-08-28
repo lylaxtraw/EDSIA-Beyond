@@ -7,7 +7,7 @@ body:
     id: problem
     attributes:
       label: Problema que resuelve / Historia de Usuario
-      description: Describe brevemente qué problema soluciona esta tarea o redacta la User Story.
+      description: Describe brevemente qué problema soluciona esta tarea, o redacta la User Story.
     validations:
       required: true
   - type: textarea

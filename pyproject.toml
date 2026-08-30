@@ -28,3 +28,6 @@ source = ["src"]
 [tool.coverage.report]
 fail_under = 90
 show_missing = true
+
+[tool.semantic_release]
+version_toml = ["pyproject.toml:project.version"]
